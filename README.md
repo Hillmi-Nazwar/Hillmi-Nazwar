@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hillmi Nazwar</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:660000&height=200&section=header&text=Hillmi%20Nazwar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- INTRO -->
+<h2 align="center">👋 Halo, saya Hillmi Nazwar</h2>
 
 <p align="center">
   Backend Developer 🚀 <br>
@@ -8,44 +14,42 @@
 
 ---
 
+<!-- ABOUT -->
 ## 👨‍💻 Tentang Saya
 - 🎓 Mahasiswa Informatika (Semester 4)
-- 💻 Backend Developer (Laravel & PHP)
+- 💻 Backend Developer (Laravel, PHP)
 - 🚀 Sedang mengerjakan proyek PBL
-- 🌱 Belajar API Development & System Design
+- 🌱 Fokus belajar API Development & System Design
 
 ---
 
+<!-- TECH STACK -->
 ## 🛠️ Teknologi & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,js,vscode,figma" />
 </p>
 
 ---
 
+<!-- ANIMASI -->
 ## 🔥 Aktivitas Saya
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Backend+Developer;Laravel+Enthusiast;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+Enthusiast;Building+Real+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
+<!-- STATS -->
 ## 📊 Statistik GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hillmi-Nazwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hillmi-Nazwar&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Hillmi-Nazwar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Hillmi-Nazwar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Proyek Saya
-- Sistem Informasi Pemesanan Jasa Wrapping (Laravel)
-
----
-
-## 📫 Kontak
-- Email: hillminazwar12@gmail.com
+<!-- LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:660000&height=100&section=footer"/>
+</p>
