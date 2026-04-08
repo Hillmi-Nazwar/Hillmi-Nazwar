@@ -4,7 +4,7 @@
 </p>
 
 <!-- INTRO -->
-<h2 align="center">👋 Halo, saya Hillmi Nazwar</h2>
+<h2 align="center">👋 Welcome, My Profile</h2>
 
 <p align="center">
   Backend Developer 🚀 <br>
