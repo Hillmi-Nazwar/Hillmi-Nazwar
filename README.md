@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Hillmi Nazwar
 
-<!--
-**Hillmi-Nazwar/Hillmi-Nazwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tentang Saya
+Backend Developer 🚀  
+Fokus pada Laravel & MySQL  
+Membangun sistem informasi yang terstruktur dan fungsional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Aktivitas
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Laravel+Enthusiast;Building+Real+Projects" />
+
+---
+
+## 📊 Statistik GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillmi-Nazwar&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hillmi-Nazwar)
+
+---
+
+## 🛠 Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
