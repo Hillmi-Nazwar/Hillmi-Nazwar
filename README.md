@@ -1,25 +1,51 @@
-# Hi 👋, I'm Hillmi Nazwar
+<h1 align="center">Hi 👋, I'm Hillmi Nazwar</h1>
 
-## 🚀 Tentang Saya
-Backend Developer 🚀  
-Fokus pada Laravel & MySQL  
-Membangun sistem informasi yang terstruktur dan fungsional  
+<p align="center">
+  Backend Developer 🚀 <br>
+  Fokus pada Laravel & MySQL <br>
+  Membangun sistem informasi yang terstruktur dan fungsional
+</p>
 
 ---
 
-## 🔥 Aktivitas
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Laravel+Enthusiast;Building+Real+Projects" />
+## 👨‍💻 Tentang Saya
+- 🎓 Mahasiswa Informatika (Semester 4)
+- 💻 Backend Developer (Laravel & PHP)
+- 🚀 Sedang mengerjakan proyek PBL
+- 🌱 Belajar API Development & System Design
+
+---
+
+## 🛠️ Teknologi & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,vscode,figma" />
+</p>
+
+---
+
+## 🔥 Aktivitas Saya
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Backend+Developer;Laravel+Enthusiast;Building+Real+Projects" />
+</p>
 
 ---
 
 ## 📊 Statistik GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillmi-Nazwar&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hillmi-Nazwar)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hillmi-Nazwar&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Hillmi-Nazwar&theme=tokyonight" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+## 📌 Proyek Saya
+- Sistem Informasi Pemesanan Jasa Wrapping (Laravel)
+
+---
+
+## 📫 Kontak
+- Email: (isi email lu di sini)
