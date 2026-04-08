@@ -48,4 +48,4 @@
 ---
 
 ## 📫 Kontak
-- Email: (isi email lu di sini)
+- Email: hillminazwar12@gmail.com
